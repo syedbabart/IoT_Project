@@ -12,7 +12,7 @@ char auth[] = "Ql4AnWw_9e8lcwUQUx8iiEaX4lzFMQRH";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Redmi Note 10"  //Enter your WIFI Name
+char ssid[] = "Redmi Note 10";  //Enter your WIFI Name
 char pass[] = "12abcdefg";  //Enter your WIFI Password
 
 
